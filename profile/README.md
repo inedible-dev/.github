@@ -20,6 +20,8 @@ DevOps and infrastructure
 
 We welcome developers, designers, and enthusiasts of all skill levels to join us in our mission to create outstanding open-source software. By contributing to our projects, you'll not only be making a positive impact in the tech community, but also honing your skills and learning from like-minded individuals.
 
+<br/>
+
 <div align="center">
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height=40 />&nbsp;<img src="https://forthebadge.com/images/badges/made-with-swift.svg" height=40 />&nbsp;<img src="https://forthebadge.com/images/badges/made-with-typescript.svg" height=40 />
 </div>
