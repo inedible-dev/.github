@@ -8,12 +8,12 @@ inedible.dev is a passionate community-driven organization that focuses on devel
 
 Our team at inedible.dev is committed to creating and maintaining a diverse range of open-source software projects. We work across various platforms, languages, and technologies to build solutions that cater to a wide array of needs. Our projects include, but are not limited to:
 
-Web development
-iOS Software Development
-macOS Software Development
-Data analysis
-Machine learning
-Artificial intelligence
+- Web development
+- iOS Software Development
+- macOS Software Development
+- Data analysis
+- Machine learning
+- Artificial intelligence
 
 ## Our Active Development Projects🤗
 
