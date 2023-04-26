@@ -14,7 +14,10 @@ macOS Software Development
 Data analysis
 Machine learning
 Artificial intelligence
-DevOps and infrastructure
+
+## Our Active Development Projects🤗
+
+**MusicBar - By [Kentakoong](https://github.com/Kentakoong)**    |    [Kentakoong/MusicBar](https://github.com/Kentakoong/MusicBar)
 
 ## Get Involved🤗
 
