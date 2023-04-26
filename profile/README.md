@@ -20,6 +20,10 @@ DevOps and infrastructure
 
 We welcome developers, designers, and enthusiasts of all skill levels to join us in our mission to create outstanding open-source software. By contributing to our projects, you'll not only be making a positive impact in the tech community, but also honing your skills and learning from like-minded individuals.
 
-<img src="https://forthebadge.com/images/badges/built-by-developers.svg" height=40 />&nbsp;<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height=40 />&nbsp;<img src="https://forthebadge.com/images/badges/made-with-swift.svg" height=40 />&nbsp;<img src="https://forthebadge.com/images/badges/made-with-typescript.svg" height=40 />
+<div align="center">
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height=40 />&nbsp;<img src="https://forthebadge.com/images/badges/made-with-swift.svg" height=40 />&nbsp;<img src="https://forthebadge.com/images/badges/made-with-typescript.svg" height=40 />
+</div>
 
-<img src="https://forthebadge.com/images/badges/it-works-why.svg" height=40 />&nbsp;<img src="https://forthebadge.com/images/badges/powered-by-pull-requests.svg" height=40 />&nbsp;<img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" height=40 />&nbsp;<img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height=40 />
+<div align="center">
+<img src="https://forthebadge.com/images/badges/it-works-why.svg" height=40 />&nbsp;<img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" height=40 />&nbsp;<img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height=40 />
+</div>
