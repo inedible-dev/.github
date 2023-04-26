@@ -15,7 +15,7 @@ Our team at inedible.dev is committed to creating and maintaining a diverse rang
 - Machine learning
 - Artificial intelligence
 
-## Our Active Development Projects🤗
+## Our Active Development Projects⌨️
 
 **MusicBar - By [Kentakoong](https://github.com/Kentakoong)**    |    [Kentakoong/MusicBar](https://github.com/Kentakoong/MusicBar)
 
