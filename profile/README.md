@@ -1,10 +1,10 @@
 ![inedible-banner](https://user-images.githubusercontent.com/35761701/234462440-9d010b3d-e286-4d02-b0fb-f6cca9f254a0.png)
 
-# Welcome to inedible🍌
+# Welcome to inedible 🍌
 
 inedible.dev is a passionate community-driven organization that focuses on developing open-source software projects that are both innovative and reliable. We believe in the power of collaboration and the open-source philosophy, which enables us to create solutions that make a difference in the world of technology. Our primary objective is to build and maintain software that is accessible, functional, and most importantly, inedible!
 
-## What we do🤔
+## What we do 🤔
 
 Our team at inedible.dev is committed to creating and maintaining a diverse range of open-source software projects. We work across various platforms, languages, and technologies to build solutions that cater to a wide array of needs. Our projects include, but are not limited to:
 
@@ -15,11 +15,11 @@ Our team at inedible.dev is committed to creating and maintaining a diverse rang
 - Machine learning
 - Artificial intelligence
 
-## Our Active Development Projects⌨️
+## Our Active Development Projects ⌨️
 
 **MusicBar - By [Kentakoong](https://github.com/Kentakoong)**    |    [Kentakoong/MusicBar](https://github.com/Kentakoong/MusicBar)
 
-## Get Involved🤗
+## Get Involved 🤗
 
 We welcome developers, designers, and enthusiasts of all skill levels to join us in our mission to create outstanding open-source software. By contributing to our projects, you'll not only be making a positive impact in the tech community, but also honing your skills and learning from like-minded individuals.
 
