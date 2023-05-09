@@ -17,7 +17,7 @@ Our team at inedible.dev is committed to creating and maintaining a diverse rang
 
 ## Our Active Development Projects ⌨️
 
-**MusicBar - By [Kentakoong](https://github.com/Kentakoong)**    |    [Kentakoong/MusicBar](https://github.com/Kentakoong/MusicBar)
+**MusicBar - By [Kentakoong](https://github.com/Kentakoong)**    |    [Kentakoong/MusicBar](https://github.com/inedible-dev/MusicBar)
 
 ## Get Involved 🤗
 
