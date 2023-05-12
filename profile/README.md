@@ -11,7 +11,7 @@ Our team at inedible.dev is committed to creating and maintaining a diverse rang
 - Web development
 - iOS Software Development
 - macOS Software Development
-- Data analysis
+- Kernels & Distros
 - Machine learning
 - Artificial intelligence
 
