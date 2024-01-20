@@ -19,7 +19,7 @@ Our team at inedible.dev is committed to creating and maintaining a diverse rang
 
 **MusicBar - By [Kentakoong](https://github.com/Kentakoong)**    |    [inedible.dev-MusicBar](https://github.com/inedible-dev/MusicBar)
 
-**InedibleOS - By [Puntawat](https://github.com/puntawatsub)**    |    [inedible.dev-InedibleOS](https://github.com/inedible-dev/InedibleOS)
+**Budget - By [Puntawat](https://github.com/puntawatsub)**    |    [inedible.dev-InedibleOS](https://github.com/inedible-dev/Budget)
 
 ## Get Involved 🤗
 
